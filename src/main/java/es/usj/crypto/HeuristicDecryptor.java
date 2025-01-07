@@ -219,7 +219,7 @@ public class HeuristicDecryptor {
 
     private static void writeGeneratedPlugboards(List<String> plugboards) {
         try {
-            Files.write(Paths.get("plugboards.txt"), plugboards, StandardOpenOption.APPEND);
+            Files.write(Paths.get("plugboards.txt"), plugboards, StandardOpenOption.CREATE,StandardOpenOption.APPEND);
         } catch (IOException e) {
             e.printStackTrace();
         }
