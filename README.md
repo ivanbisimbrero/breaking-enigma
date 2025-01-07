@@ -99,7 +99,8 @@ Universidad San Jorge – Cryptography Project
 
 - [Cracking Enigma in 2021 - Computerphile](https://www.youtube.com/watch?v=RzWB5jL5RX0)  
 - [Mike Pound’s Enigma Project](https://github.com/mikepound/enigma)  
-- [Wikipedia - Enigma Machine](https://en.wikipedia.org/wiki/Enigma_machine)  
+- [Wikipedia - Enigma Machine](https://en.wikipedia.org/wiki/Enigma_machine)
+- [Angel Borroy - Custom Enigma Implementation](https://github.com/angelborroy/custom-enigma)
 
 ---
 
