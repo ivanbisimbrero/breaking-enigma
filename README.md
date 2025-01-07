@@ -22,6 +22,8 @@ mvn clean package
 java -jar target/custom-enigma-0.8.0.jar
 ```
 
+And now just wait ⏳!! In 20 minutes you should have tested 28M plugboards, with the best result. 🚀
+
 ---
 
 ## 📜 **What Is This Project About?**  
